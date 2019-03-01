@@ -3,6 +3,9 @@
 }
 body{
     background-image: url(https://www.zingerbug.com/Backgrounds/background_images/indigo_textured_rock_seamless_pattern.jpg);
+    margin: 0;
+    padding: 0;
+
 }
 header {
     border: solid 1px #cccccc;
